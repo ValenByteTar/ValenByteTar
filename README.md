@@ -15,11 +15,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/agentic_intelligence-111111?style=flat-square&labelColor=1c1c1c"/>
-  <img src="https://img.shields.io/badge/knowledge_engineering-111111?style=flat-square&labelColor=1c1c1c"/>
-  <img src="https://img.shields.io/badge/hybrid_retrieval-111111?style=flat-square&labelColor=1c1c1c"/>
-  <img src="https://img.shields.io/badge/ai_security-111111?style=flat-square&labelColor=1c1c1c"/>
-  <img src="https://img.shields.io/badge/offline_first-111111?style=flat-square&labelColor=1c1c1c"/>
+  <code>&nbsp;AGENTIC&nbsp;INTELLIGENCE&nbsp;</code>
+  <code>&nbsp;KNOWLEDGE&nbsp;ENGINEERING&nbsp;</code>
+  <code>&nbsp;HYBRID&nbsp;RETRIEVAL&nbsp;</code>
+  <code>&nbsp;AI&nbsp;SECURITY&nbsp;</code>
+  <code>&nbsp;OFFLINE&nbsp;FIRST&nbsp;</code>
 </p>
 
 ---

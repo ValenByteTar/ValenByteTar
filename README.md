@@ -1,13 +1,10 @@
-<!-- Logo animado -->
 <p align="center">
-  <img src="assets/Logo.svg" alt="INFRAPOLUS Logo" width="400"/>
+  <img src="assets/Logo.svg" alt="INFRAPOLUS" width="600"/>
 </p>
 
-<!-- Identidad de marca -->
-<h1 align="center">INFRAPOLUS</h1>
-<p align="center"><b>Secure Intelligence...</b></p>
+<p align="center">─────────────────────────────────────────────</p>
 
-<p align="center">────────────────────────────────────</p>
+<p align="center"><b>↓ Scroll Down</b></p>
 
 <br><br><br><br><br><br><br><br>
 
@@ -27,4 +24,3 @@
 <br><br><br><br>
 
 ## Publications
-↓

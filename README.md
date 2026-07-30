@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- Logo animado -->
+<p align="center">
+  <img src="assets/Logo.svg" alt="INFRAPOLUS Logo" width="400"/>
+</p>
 
-<!--
-**ValenByteTar/ValenByteTar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Identidad de marca -->
+<h1 align="center">INFRAPOLUS</h1>
+<p align="center"><b>Secure Intelligence...</b></p>
 
-Here are some ideas to get you started:
+<p align="center">────────────────────────────────────</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><br><br><br><br><br><br>
+
+## Research
+↓
+
+<br><br><br><br>
+
+## Architecture
+↓
+
+<br><br><br><br>
+
+## Projects
+↓
+
+<br><br><br><br>
+
+## Publications
+↓
